@@ -10,6 +10,7 @@ profile.MEDIUM=§2中等 §6§l(推荐)
 profile.ALTERNATE_MEDIUM=§2中等 §7(替代风格)
 profile.HIGH=§b高 §6§l(推荐)
 profile.ALTERNATE_HIGH=§b高 §7(替代风格)
+profile.ALTERNATE_HIGH_CLEAR_WATER=§b高 §7(替代风格 + 净水)
 profile.HIGH_GRASS=§b高 + 着色器草
 profile.ALTERNATE_HIGH_GRASS=§b高 + 着色器草 §7(替代风格)
 profile.VERY_HIGH=§9非常高

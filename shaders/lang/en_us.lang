@@ -12,6 +12,7 @@ profile.MEDIUM=§2Medium §6§l(Recommended)
 profile.ALTERNATE_MEDIUM=§2Medium §7(Alternate Style)
 profile.HIGH=§bHigh §6§l(Recommended)
 profile.ALTERNATE_HIGH=§bHigh §7(Alternate Style)
+profile.ALTERNATE_HIGH_CLEAR_WATER=§bHigh §7(Alt. Style + Clear Water)
 profile.HIGH_GRASS=§bHigh + Shader Grass
 profile.ALTERNATE_HIGH_GRASS=§bHigh + Shader Grass §7(Alt. Style)
 profile.VERY_HIGH=§9Very High
